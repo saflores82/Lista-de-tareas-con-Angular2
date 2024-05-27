@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+PASOS:
+
+ng serve --host 0.0.0.0 --port 8080
+
+Probar la aplicacion:
+
+•	Accede a la url del Cloud9 y prueba de añadir una tarea, 
+
+•	Una vez añadida la tarea cambia la ruta a /my-tasks alli deberias ver todas las tareas registradas 
+
+•	En la lista de tareas aparece el boton de borrar tarea, prueba de borrar una tarea
+
+Si has conseguido hacer estas 3 pruebas, tu aplicacion funciona correctamente, adjunta captura de pantalla del listado de tareas
